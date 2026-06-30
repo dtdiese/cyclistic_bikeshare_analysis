@@ -1,0 +1,5 @@
+raw_data/
+.ipynb_checkpoints/
+.virtual_documents/
+data_clean/
+cyclistic_cleaned.csv
