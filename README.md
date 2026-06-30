@@ -1,4 +1,4 @@
-# cyclistic-bike-share-analysis
+# cyclistic-bikeshare-analysis
 
 Google Data Analytics Capstone Project: Cyclistic Bike Share Case Study
 
