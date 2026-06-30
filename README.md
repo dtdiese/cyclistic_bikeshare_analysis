@@ -18,7 +18,7 @@ How do casual riders and annual members use Cyclistic bikes differently? The goa
     - All data is public and contains no personal information of any riders.
     - Note that months 04/2025 through 03/2026 were used for this analysis.
   - The data is organized into csv files by each month. There appears to be a significant percentage of missing values in the columns containing station names and        IDs. Each individual ride has it's own unique ride ID.
-- [3] ## Analyze
+- [3] Analyze
 
   - After cleaning the data, I analyzed behavioral differences between casual and member riders across several dimensions:
     - **Ride Length:** Casual riders had longer average rides (19.15 min) and median rides (11.33 min) compared to members (12.03 min average, 8.58 min median), suggesting more leisure-oriented usage.
