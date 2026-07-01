@@ -29,4 +29,4 @@ How do casual riders and annual paid members use Cyclistic bikes differently? Th
 
 - [4] Visualizations
   - Interactive dashboard built in Tableau Public:
-    [Cyclistic Bike Share Dashboard] https://public.tableau.com/app/profile/derek.diese/viz/CyclisticBikeshareAnalysis_17827897470810/Dashboard1?publish=yes
+    [Cyclistic Bikeshare Dashboard] https://public.tableau.com/app/profile/derek.diese/viz/CyclisticBikeshareAnalysis_17827897470810/Dashboard1?publish=yes
