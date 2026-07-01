@@ -19,7 +19,6 @@ How do casual riders and annual paid members use Cyclistic bikes differently? Th
     - Note that months 04/2025 through 03/2026 were used for this analysis.
   - The data is organized into csv files by each month. There appears to be a significant percentage of missing values in the columns containing station names and        IDs. Each individual ride has it's own unique ride ID.
 - [3] Analyze
-
   - After cleaning the data, I analyzed behavioral differences between casual and member riders across several dimensions:
     - **Ride Length:** Casual riders had longer average rides (19.15 min) and median rides (11.33 min) compared to members (12.03 min average, 8.58 min median),        suggesting more leisure-oriented usage.
     - **Day of Week:** Casual ridership peaked heavily on weekends, while member ridership was highest on weekdays, with a slight bump on Tuesday, Wednesday, and       Thursday consistent with hybrid work schedules.
@@ -27,3 +26,7 @@ How do casual riders and annual paid members use Cyclistic bikes differently? Th
     - **Seasonality:** Both groups peaked in ridership during August, but casual ridership dropped off far more sharply in winter months, suggesting members rely       on bikes year-round while casual riders are largely fair-weather users.
     - **Bike Type:** Both groups showed a similar preference for electric bikes (roughly two-thirds of all rides). However, casual riders rode classic bikes            nearly twice as long on average as electric bikes, suggesting twot casual rider behaviors: leisurely rides on classic bikes versus quicker point A to pint B       trips on electric bikes.
     - **Station Location:** Casual rider activity clustered heavily around tourist destinations (Millennium Park, Shedd Aquarium, Michigan Avenue, etc.), while         member activity clustered around inordinary street intersections likely representing office and residential commuting routes.
+
+- [4] Visualizations
+  - Interactive dashboard built in Tableau Public:
+    [Cyclistic Bike Share Dashboard] https://public.tableau.com/app/profile/derek.diese/viz/CyclisticBikeshareAnalysis_17827897470810/Dashboard1?publish=yes
