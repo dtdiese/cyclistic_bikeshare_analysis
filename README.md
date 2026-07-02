@@ -52,9 +52,9 @@ How do casual riders and annual paid members use Cyclistic bikes differently? Th
   * Members are primarily everyday users who use the bikes for commuting, errands and other short routes.
 * \[7] Recommendations
 
-  * \*\*Summer Weekend Campaigns:\*\* Aim to convert casual users during the warm months at popular locations throughout the city when ridership is highest and more consistent ridership is more desirable.
-  * \*\*Seasonal Memberships:\*\* Offer seasonal pricing during peak months to lower the barrier to conversion.
-  * \*\*Ride Length Incentives:\*\* A membership tier that rewards longer rides may be worth exploring since it would appeal to casuals' riding patterns.
-  * \*\*Weekend to Weekdays:\*\* Highlight the savings members get by riding for their commute and daily errands in the warmer months.
-  * \*\*Expand Electric Bike Availability:\*\* Since nearly two thirds of each rider group preferred to use electric bikes, this could be a good investment opportunity for overall revenue growth.
+  * **Summer Weekend Campaigns:** Aim to convert casual users during the warm months at popular locations throughout the city when ridership is highest and more consistent ridership is more desirable.
+  * **Seasonal Memberships:** Offer seasonal pricing during peak months to lower the barrier to conversion.
+  * **Ride Length Incentives:** A membership tier that rewards longer rides may be worth exploring since it would appeal to casuals' riding patterns.
+  * **Weekend to Weekdays:** Highlight the savings members get by riding for their commute and daily errands in the warmer months.
+  * **Expand Electric Bike Availability:** Since nearly two thirds of each rider group preferred to use electric bikes, this could be a good investment opportunity for overall revenue growth.
 
